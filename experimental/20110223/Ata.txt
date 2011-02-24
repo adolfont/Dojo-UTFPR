@@ -1,58 +1,64 @@
 Ata do encontro DOJO-Experimental
-Universidade Tecnológica Federal do Paraná
+Universidade TecnolÃ³gica Federal do ParanÃ¡
 
-23 de Fevereiro de 2011, 9:00 – UTFPR, Campus Curitiba – Sala B109
+23 de Fevereiro de 2011, 9:00 â€“ UTFPR, Campus Curitiba â€“ Sala B109
+
 Linguagem Escolhida: Java
+
 Problema escolhido: "Livraria do Harry Potter" 
+
 http://dojopuzzles.com/problemas/exibe/livraria-do-harry-potter/
-Participantes
+
+Participantes:
 Adolfo Gustavo Serra Seca Neto
 Allan Caminha Trevisan
 Cesar Augusto Tacla
 Deisy Brigid De Zorzi Dalke
-Fabiano Guilherme Prado Araújo
-Fabrício Moyses Polato Gonçalves
+Fabiano Guilherme Prado AraÃºjo
+FabrÃ­cio Moyses Polato GonÃ§alves
 Fernando Padilha Ferreira
 Kaya Sumire Abe
 Lucas Bueno
 Lucas Campiolo Paiva
 Lucas Hauptmann De Almeida
 Luiz Gustavo Cardoso Ribeiro
-Matheus Silva Araújo
+Matheus Silva AraÃºjo
 Ramiro Batista da Luz
-Tatiane Gomes Guimarães
+Tatiane Gomes GuimarÃ£es
 
-O Dojo teve início às 9h. O local foi cedido pelo Departamento Acadêmico de Informática da UTFPR, por intermédio do Professor Adolfo Neto. Foi utilizada a suíte de testes JUnit do NetBeans IDE. Na condição de Sensei, Ramiro Luz fez uma explanação geral sobre os métodos e a dinâmica de um Dojo de Programação uma vez que um dos intuitos desse Dojo era introduzir as técnicas de Dojo nos grupos PET do DAINF. Então foi escolhido o problema a ser solucionado. Quase todos os participantes puderam pilotar o computador durante o Dojo e conseguiram encontrar uma solução apesar de a especificação do problema ter sido ambígua.
+O Dojo teve inÃ­cio Ã s 9h. O local foi cedido pelo Departamento AcadÃªmico de InformÃ¡tica da UTFPR, por intermÃ©dio do Professor Adolfo Neto. Foi utilizada a suÃ­te de testes JUnit do NetBeans IDE. Na condiÃ§Ã£o de Sensei, Ramiro Luz fez uma explanaÃ§Ã£o geral sobre os mÃ©todos e a dinÃ¢mica de um Dojo de ProgramaÃ§Ã£o uma vez que um dos intuitos desse Dojo era introduzir as tÃ©cnicas de Dojo nos grupos PET do DAINF. EntÃ£o foi escolhido o problema a ser solucionado. Quase todos os participantes puderam pilotar o computador durante o Dojo e conseguiram encontrar uma soluÃ§Ã£o apesar de a especificaÃ§Ã£o do problema ter sido ambÃ­gua.
+
 Pontos Positivos 
-Aprender técnicas de Teste;
+Aprender tÃ©cnicas de Teste;
 Chegar ao fim do problema;
-Troca de experiência e conhecimento;
-Uso de Java (já conhecido);
+Troca de experiÃªncia e conhecimento;
+Uso de Java (jÃ¡ conhecido);
 Problema;
-Participação da grande maioria das pessoas presentes;
-Testes sugeridos por Lucas/Luiz (que poderiam produzir repostas erradas de acordo com a especificação do problema)
-Encontramos erros na descrição do Kata, problema mal especificado;
-Conhecer repositório de problemas DojoPuzzles;
+ParticipaÃ§Ã£o da grande maioria das pessoas presentes;
+Testes sugeridos por Lucas/Luiz (que poderiam produzir repostas erradas de acordo com a especificaÃ§Ã£o do problema)
+Encontramos erros na descriÃ§Ã£o do Kata, problema mal especificado;
+Conhecer repositÃ³rio de problemas DojoPuzzles;
 Uso de TDD em Java com JUnit e NetBeans
 Aprendizado de GIT;
-Problema permitiu uma evolução progressiva;
-Liberdade de escolha do problema (relacionada à dificuldade);
+Problema permitiu uma evoluÃ§Ã£o progressiva;
+Liberdade de escolha do problema (relacionada Ã  dificuldade);
 Trabalho em grupo (Entendimento dos passos dos colegas);
-Várias formas de resolver o mesmo problema;
+VÃ¡rias formas de resolver o mesmo problema;
+
 Pontos Negativos 
-Não vi muita utilidade em testes unitários;
-Não teve lanche;
-Escrever código para satisfazer apenas os testes escritos;
-Especificação não muito exata do programa;
-Falta de comunicação
-Falta de introdução do JUnit;
-Pouca interação entre os participantes que assistem à resolução do problema (durante a resolução);
-Demoramos a pensar na solução mais geral;
-Poderíamos ter feito em uma linguagem diferente;
-Local ruim – má visualização da dupla, a plateia ficou distante;
-Esquecemos de comitar às vezes;
-Houve infração às regras de TDD (modificação de código sem modificar o teste);
-Esqueceram de usar “Control C” “Control V”;
-Deveríamos ter lido o problema em inglês;
-Faltou ênfase na refatoração do código;
-Seria melhor dar ênfase a linguagens de programação diferentes;
+NÃ£o vi muita utilidade em testes unitÃ¡rios;
+NÃ£o teve lanche;
+Escrever cÃ³digo para satisfazer apenas os testes escritos;
+EspecificaÃ§Ã£o nÃ£o muito exata do programa;
+Falta de comunicaÃ§Ã£o
+Falta de introduÃ§Ã£o do JUnit;
+Pouca interaÃ§Ã£o entre os participantes que assistem Ã  resoluÃ§Ã£o do problema (durante a resoluÃ§Ã£o);
+Demoramos a pensar na soluÃ§Ã£o mais geral;
+PoderÃ­amos ter feito em uma linguagem diferente;
+Local ruim â€“ mÃ¡ visualizaÃ§Ã£o da dupla, a plateia ficou distante;
+Esquecemos de comitar Ã s vezes;
+Houve infraÃ§Ã£o Ã s regras de TDD (modificaÃ§Ã£o de cÃ³digo sem modificar o teste);
+Esqueceram de usar â€œControl Câ€ â€œControl Vâ€;
+DeverÃ­amos ter lido o problema em inglÃªs;
+Faltou Ãªnfase na refatoraÃ§Ã£o do cÃ³digo;
+Seria melhor dar Ãªnfase a linguagens de programaÃ§Ã£o diferentes;
